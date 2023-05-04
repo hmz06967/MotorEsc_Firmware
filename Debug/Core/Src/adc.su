@@ -1,0 +1,9 @@
+../Core/Src/adc.c:17:6:init_adc	8	static
+../Core/Src/adc.c:21:6:printf_adc	24	static
+../Core/Src/adc.c:25:6:adc_update_run	16	static
+../Core/Src/adc.c:39:6:updateAdcValues	8	static
+../Core/Src/adc.c:43:7:get_back_emf_voltage	8	static
+../Core/Src/adc.c:47:7:motor_adc_get_voltage	8	static
+../Core/Src/adc.c:51:7:motor_adc_get_temperature	8	static
+../Core/Src/adc.c:55:6:get_comutator_value	16	static
+../Core/Src/adc.c:60:25:motor_adc_get_last_sample	16	static

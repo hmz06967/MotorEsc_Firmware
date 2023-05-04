@@ -1,0 +1,7 @@
+../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_ll_bus.h:227:22:LL_AHB1_GRP1_EnableClock	8	static
+../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_ll_bus.h:415:22:LL_APB1_GRP1_EnableClock	8	static
+../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_ll_bus.h:665:22:LL_APB1_GRP2_EnableClock	8	static
+../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_ll_tim.h:1880:22:LL_TIM_OC_DisableFast	0	static
+../Core/Src/io.c:42:6:SystemClock_Config	8	static
+../Core/Src/io.c:22:6:io_init	136	static,ignoring_inline_asm
+../Core/Src/io.c:529:6:Error_Handler	0	static,ignoring_inline_asm

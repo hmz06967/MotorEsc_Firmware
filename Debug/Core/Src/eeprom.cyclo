@@ -1,0 +1,6 @@
+eeprom.c:25:16:calculateChecksum	2
+eeprom.c:37:9:eeprom_read	1
+eeprom.c:41:6:eeprom_save	1
+eeprom.c:46:6:save_flash_nolib	10
+eeprom.c:98:9:read_flash_bin	3
+eeprom.c:116:6:eeprom_test	2

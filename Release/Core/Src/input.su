@@ -1,0 +1,6 @@
+../Core/Src/input.c:19:10:get_duty	8	static
+../Core/Src/input.c:23:10:MAP	8	static
+../Core/Src/input.c:27:9:is_callibred	0	static
+../Core/Src/input.c:33:6:enable_ic	0	static
+../Core/Src/input.c:40:6:init_input	8	static
+../Core/Src/input.c:62:6:capture_callback	24	static

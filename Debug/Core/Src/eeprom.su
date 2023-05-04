@@ -1,0 +1,6 @@
+../Core/Src/eeprom.c:25:16:calculateChecksum	24	static
+../Core/Src/eeprom.c:37:9:eeprom_read	8	static
+../Core/Src/eeprom.c:41:6:eeprom_save	8	static
+../Core/Src/eeprom.c:46:6:save_flash_nolib	88	dynamic
+../Core/Src/eeprom.c:98:9:read_flash_bin	80	dynamic
+../Core/Src/eeprom.c:116:6:eeprom_test	32	static

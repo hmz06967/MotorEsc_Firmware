@@ -1,0 +1,2 @@
+../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_ll_tim.h:1082:22:LL_TIM_EnableCounter	16	static
+../Core/Src/comutate.c:20:6:init_comutator	8	static

@@ -1,0 +1,5 @@
+../Core/Src/eeprom.c:43:6:save_flash_nolib	48	dynamic
+../Core/Src/eeprom.c:38:6:eeprom_save	8	static
+../Core/Src/eeprom.c:94:9:read_flash_bin	32	dynamic
+../Core/Src/eeprom.c:34:9:eeprom_read	8	static
+../Core/Src/eeprom.c:112:6:eeprom_test	24	static

@@ -1,0 +1,10 @@
+../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_ll_usart.h:2738:26:LL_USART_IsActiveFlag_TC	16	static
+../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_ll_usart.h:2749:26:LL_USART_IsActiveFlag_TXE	16	static
+../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_ll_usart.h:3714:22:LL_USART_TransmitData8	16	static
+../Core/Src/uart.c:22:9:update_crc8	24	static
+../Core/Src/uart.c:31:9:get_crc8	32	static
+../Core/Src/uart.c:37:6:makeTelemPackage	24	static
+../Core/Src/uart.c:51:6:uart_write	24	static
+../Core/Src/uart.c:59:6:soft_write_byte	24	static
+../Core/Src/uart.c:76:6:soft_write	32	static
+../Core/Src/uart.c:82:6:uprintf	8	static

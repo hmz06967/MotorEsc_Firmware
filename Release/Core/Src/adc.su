@@ -1,0 +1,4 @@
+../Core/Src/adc.c:15:6:updateAdcValues	0	static
+../Core/Src/adc.c:45:7:motor_adc_get_voltage	8	static
+../Core/Src/adc.c:49:7:motor_adc_get_temperature	8	static
+../Core/Src/adc.c:53:25:motor_adc_get_last_sample	8	static

@@ -1,0 +1,9 @@
+adc.c:17:6:init_adc	1
+adc.c:21:6:printf_adc	1
+adc.c:25:6:adc_update_run	2
+adc.c:39:6:updateAdcValues	1
+adc.c:43:7:get_back_emf_voltage	1
+adc.c:47:7:motor_adc_get_voltage	1
+adc.c:51:7:motor_adc_get_temperature	1
+adc.c:55:6:get_comutator_value	2
+adc.c:60:25:motor_adc_get_last_sample	1

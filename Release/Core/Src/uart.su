@@ -1,0 +1,4 @@
+../Core/Src/uart.c:20:9:update_crc8	8	static
+../Core/Src/uart.c:29:9:get_crc8	16	static
+../Core/Src/uart.c:35:6:makeTelemPackage	16	static
+../Core/Src/uart.c:50:6:uprintf	24	static

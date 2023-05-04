@@ -1,0 +1,15 @@
+../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_ll_tim.h:1689:22:LL_TIM_OC_SetMode.constprop	8	static
+../Core/Src/pwm.c:143:13:motor_pwm_brake	16	static
+../Core/Src/pwm.c:92:20:phase_p_pwm.part.0	16	static
+../Core/Src/pwm.c:33:20:phase_float.part.0	8	static
+../Core/Src/pwm.c:61:20:phase_n_pwm.part.0	16	static
+../Core/Src/pwm.c:162:6:motor_step	8	static
+../Core/Src/pwm.c:199:6:motor_pwm_set_freewheeling	16	static,ignoring_inline_asm
+../Core/Src/pwm.c:26:6:motor_pwm_init	16	static
+../Core/Src/pwm.c:206:6:motor_pwm_set_break	8	static,ignoring_inline_asm
+../Core/Src/pwm.c:247:6:comutate_start_motor	8	static
+../Core/Src/pwm.c:213:6:motor_pwm_set_pwm_val	24	static
+../Core/Src/pwm.c:253:6:comutate_timer_callback	16	static
+../Core/Src/pwm.c:269:6:motorTuneReady	16	static
+../Core/Src/pwm.c:283:6:motorTuneInput	8	static
+../Core/Src/pwm.c:295:10:get_pwm_duty	0	static
